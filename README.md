@@ -1,3 +1,8 @@
-# wisc.data-analytics
-intro to data science coursework
-this is a portfolio created to house my intro to data science coursework
+# Data Science & Analytics Portfolio
+This repository contains projects and visualizations created from the Data Science & Analytics program with University of Wisconsin Madison.
+
+## SQL
+
+## Statistics
+
+## Visual Communications
